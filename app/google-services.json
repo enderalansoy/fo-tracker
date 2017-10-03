@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "13768365666",
+    "firebase_url": "https://fo-tracker.firebaseio.com",
+    "project_id": "fo-tracker",
+    "storage_bucket": "fo-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13768365666:android:e59917760df2d6c2",
+        "android_client_info": {
+          "package_name": "com.fomobileappdevteam.alan.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13768365666-nub9onl455hk573tstcr8d118f38uquf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fomobileappdevteam.alan.tracker",
+            "certificate_hash": "d4caa88d4f85ddeed130144d888bc03d80dd0165"
+          }
+        },
+        {
+          "client_id": "13768365666-lqs1bcdup5skfu4lklljrlt5l385833f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfGEGYHIINKEGakBIKXomfUma5JiV_lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13768365666-lqs1bcdup5skfu4lklljrlt5l385833f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
